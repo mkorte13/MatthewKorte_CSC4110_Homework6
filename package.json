@@ -1,0 +1,21 @@
+{
+  "name": "mattkorte_homework6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matthew Korte",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "moduleDirectories": [
+    "node_modules"
+]
+  
+}
